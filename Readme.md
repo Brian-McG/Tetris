@@ -1,8 +1,8 @@
 # Tetris
 
-## Author 
+#### Author 
 Brian Mc George
-## Date
+#### Date
 17 August 2014
 
 ## Description
